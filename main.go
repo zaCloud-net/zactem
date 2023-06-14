@@ -1,4 +1,4 @@
-package main
+package zactem
 
 import (
 	"encoding/json"
